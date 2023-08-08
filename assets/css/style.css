@@ -69,6 +69,7 @@ p {
     font-size: 16px;
 }
 
+/* I used the content class to adjust the styling of the main portion in the html, rather than having a different class for each section in the main portion*/
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +94,7 @@ p {
     font-size: 36px;
 }
 
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,6 +105,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* benefits-aside was a class created for the aside/sidebar section of the application to consolidate css material for that section*/
 
 .benefits-aside {
     margin-bottom: 32px;
