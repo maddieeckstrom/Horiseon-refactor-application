@@ -8,6 +8,7 @@ This application was built to help businesses improve through online tactics rec
 
 Use the tabs on the header of the website to navigate to sections of the page to learn more.
 
+<a href="./assets/images/headerscreenshot.jpg">
 
 ## Credits
 
