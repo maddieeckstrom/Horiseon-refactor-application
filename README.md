@@ -1,4 +1,6 @@
 # Horiseon-refactor-hwk
+The live site may be found here:
+https://maddieeckstrom.github.io/Horiseon-refactor-application/ 
 
 ## Description
 
